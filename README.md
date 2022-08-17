@@ -28,13 +28,7 @@ Adobe Fresco, PS, Indesign for sprites and Animation
 Blender strictly for modeling, all exports would be static FBX.
 Unreal Engine for everything else. 
 
-IF THE GAME HAS POTENTIAL TO BE A COMMERCIAL PRODUCT YOU WILL NEED TO ALSO INCLUDE DETAILED PLANS FOR:
-
-                     PUBLISHING
-MARKETING
-MONETIZATION
-SUPPORT
-  PIPELINE
+PIPELINE
 
 Pre-Production
 In order to build/acquire the correct/cohesive assets you must spend time defining things such as tone, atmosphere, aesthetic, narrative, characters, cultures through whatever means are available to you. The tools you will use in pre-production will not likely have too much impact in production, so there is no need to get into software at this point. Written descriptions are just as valid as illustrated storyboards or concept art, the important thing is to make production easier on yourself by defining things as explicitly as possible. If written, Include all of the sensory information available. Color, texture, smell, sound. Without spending time doing this you will be wasting time in production. 
