@@ -4,9 +4,6 @@
 TIMEFRAME
 TWO MONTHS
 
-ASSETS
-Player Pawn: Model(2D sprite or Textured FBX), Ability Set, Input map, Sound Map. Death, respawn, firing, idle, and Victory animations.
-
 ### CONCEPT ABSTRACT : 
 PLAYFUL, TOP DOWN ARCADE SHOOTER, For fans of casual slightly absurdist arcade shooters. Featuring replay ability through procedural level generation of hazards, obstacles, and enemy spawn patterns. difficulty scaling options, and THREE ENEMY TYPES WITH UNIQUE BEHAVIORS. The Aesthetic will reflect the name of the game, and be somewhat silly. A stylized and cohesive absurdist design, along with web integrated leader boards, and polished kinetics will elevate this otherwise straightforward Asteroids clone
 
@@ -26,8 +23,7 @@ Enemy Behavior, Score Tracking, Score Multipliers based on hits made without bei
 Main menu, Settings Menu, Start Menu. Score total display, score multiplier display, HP display, Wave counter display, score pop ups (on hit), Sound Mapping, Title Track. Menu Transitions.
 
 ### TOOLS/SOFTWARE :
-Adobe Fresco, PS, In-design for sprites and Animation Blender strictly for modeling, all exports would be static FBX. Unreal Engine for everything else.
-
+Adobe Fresco, Animate, and Audition. Unreal Engine 5.
 ### Pre-Production : 
 In order to build/acquire the correct/cohesive assets you must spend time defining things such as tone, atmosphere, aesthetic, narrative, characters, cultures through whatever means are available to you. The tools you will use in pre-production will not likely have too much impact in production, so there is no need to get into software at this point. Written descriptions are just as valid as illustrated storyboards or concept art, the important thing is to make production easier on yourself by defining things as explicitly as possible. If written, Include all of the sensory information available. Color, texture, smell, sound. Without spending time doing this you will be wasting time in production.
 
@@ -38,11 +34,6 @@ Make a detailed outline of any characters, Include their appearance, aesthetic, 
 
 Define core gameplay by breaking down the gameplay loop. Consider things such as Objectives, Rewards, Fail States, and the tools the players will use to achieve or avoid them. Consider how each element in the loop feeds into the next, as this is an important part of creating a satisfying and cohesive experience. Re-evaluate the asset list created in this GDD Template. Only If you have included some level of concept/outline/storyboard/mindmap for each individual asset you plan on using, continue to production.
 
-### Production :
-During production it is essential to understand the compatibility between different pieces of software. Make sure to describe default export/import settings and file types you will be using at each step of the way. As most if not all logic assets will be built within the game engine, focus instead on creating a cycle of feature prototyping, testing, and completion. Art Assets will follow a similar cycle, but will likely require several pieces of software to complete. Beginning with the model, describe how the model will be textured, rigged, and animated. Be sure to explain any limitations between software, such as naming conventions and measurement standards.
 
 ### SCHEDULE :
-Partition time into days or hours. Set realistic goals Pre Production Deadline 8/20 
-
-### TODO : 
-1) attach a link to the completed google calendar for this project.
+Partition time into days or hours. Set realistic goals Pre Production Deadline 8/20
