@@ -10,8 +10,7 @@ A stylized and cohesive absurdist design, along with web integrated leaderboards
 
 TIMEFRAME
 TWO MONTHS
-PROJECT DEADLINE
-OCT. 12
+
 
 ASSETS
 Player Pawn: Model(2D sprite or Textured FBX), Ability Set, Input map, Sound Map. Death, respawn, firing, idle, and Victory animations.
