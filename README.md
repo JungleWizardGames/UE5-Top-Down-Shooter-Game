@@ -1,9 +1,6 @@
 # UE5-Top-Down-Shooter-Game
 ## Working Title: Crunchy Bunchers
 
-TIMEFRAME
-TWO MONTHS
-
 ### CONCEPT ABSTRACT : 
 PLAYFUL, TOP DOWN ARCADE SHOOTER, For fans of casual slightly absurdist arcade shooters. Featuring replay ability through procedural level generation of hazards, obstacles, and enemy spawn patterns. difficulty scaling options, and THREE ENEMY TYPES WITH UNIQUE BEHAVIORS. The Aesthetic will reflect the name of the game, and be somewhat silly. A stylized and cohesive absurdist design, along with web integrated leader boards, and polished kinetics will elevate this otherwise straightforward Asteroids clone
 
