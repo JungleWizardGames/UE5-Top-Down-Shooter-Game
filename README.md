@@ -21,6 +21,7 @@ Main menu, Settings Menu, Start Menu. Score total display, score multiplier disp
 
 ### TOOLS/SOFTWARE :
 Adobe Fresco, Animate, and Audition. Unreal Engine 5.
+
 ### Pre-Production : 
 In order to build/acquire the correct/cohesive assets you must spend time defining things such as tone, atmosphere, aesthetic, narrative, characters, cultures through whatever means are available to you. The tools you will use in pre-production will not likely have too much impact in production, so there is no need to get into software at this point. Written descriptions are just as valid as illustrated storyboards or concept art, the important thing is to make production easier on yourself by defining things as explicitly as possible. If written, Include all of the sensory information available. Color, texture, smell, sound. Without spending time doing this you will be wasting time in production.
 
@@ -33,4 +34,5 @@ Define core gameplay by breaking down the gameplay loop. Consider things such as
 
 
 ### SCHEDULE :
-Partition time into days or hours. Set realistic goals Pre Production Deadline 8/20
+Partition time into days or hours. Set realistic goals 
+Pre Production Deadline 8/20
